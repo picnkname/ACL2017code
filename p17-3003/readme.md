@@ -14,6 +14,7 @@ author | Jeenu Grover, Pabitra Mitra
 - tflearn:0.3.2
 - numpy1.13.3
 - scikit learn:0.19.0
+- python:3.6
 
 ## Probelm Definition
 
